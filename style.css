@@ -1,0 +1,40 @@
+.text7{
+  font-family: Georgia;
+  font-size: 18px;
+  color: #b3d4fc;
+  word-spacing: 600px;
+}
+
+img.fig {
+  align: right;
+}
+
+.text1{
+  color: black;
+  font-size: 20px;
+  font-family: "Palatino Linotype";
+  padding: 50px;
+}
+.text2{
+  color: blueviolet;
+  font-size: 18px;
+  font-family: monospace;
+  text-align: center;
+}
+.text3{
+  color : blue;
+  font-family: monospace;
+  font-size:20px;
+  padding: 50px;
+}
+.image3{
+  float:left; /* Выравнивание по левому краю */
+  margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+}
+.text4{
+  font-size: 21px;
+}
+.text5{
+  font-size: 21px;
+  padding: 25px;
+}
